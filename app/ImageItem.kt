@@ -1,0 +1,1 @@
+data class ImageItem(val imageResource: Int, val caption: String)
